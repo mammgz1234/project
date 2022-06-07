@@ -1,3 +1,3 @@
 #include <iostream>
-knapSack(W, wt, val, n);
+int knapSack(int W, int wt[], int val[], int n);
 
